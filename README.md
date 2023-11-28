@@ -1,8 +1,8 @@
 # Machine learning examples
 
-<p float="left">
-  <img src="assets/kalman_position.svg" alt="KF position estimates" height="250" align="left">
-  <img src="assets/kalman_velocity.svg" alt="KF velocity estimates" height="250" align="center">
+<p>
+  <img src="assets/kalman_position.svg" alt="Kalman filter position estimates" title="Position estimates" height="250" style="padding-right: 1em;">
+  <img src="assets/kalman_velocity.svg" alt="Kalman filter velocity estimates" title="Velocity estimates" height="250">
 </p>
 
 This repository contains a small archive of machine learning and data science examples.

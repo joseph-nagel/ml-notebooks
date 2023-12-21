@@ -12,17 +12,17 @@ Most of the example notebooks contain a brief theoretical introduction followed 
 
 ## Contents
 
-- [A/B testing](./ab_testing.ipynb)
+- [A/B testing](notebooks/ab_testing.ipynb)
 
-- [Clustering](./clustering_example.ipynb)
+- [Clustering](notebooks/clustering_example.ipynb)
 
-- [Harmonic oscillator](./harmonic_oscillator.ipynb)
+- [Harmonic oscillator](notebooks/harmonic_oscillator.ipynb)
 
-- [Kalman filtering](./kalman_filter.ipynb)
+- [Kalman filtering](notebooks/kalman_filter.ipynb)
 
-- [Nonlinear filtering](./nonlinear_filters.ipynb)
+- [Nonlinear filtering](notebooks/nonlinear_filters.ipynb)
 
-- [PCA](./principal_components.ipynb)
+- [PCA](notebooks/principal_components.ipynb)
 
-- [System identification](./system_identification.ipynb)
+- [System identification](notebooks/system_identification.ipynb)
 

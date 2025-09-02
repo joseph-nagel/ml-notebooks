@@ -14,16 +14,9 @@ Most of the example notebooks contain a brief theoretical introduction followed 
 ## Notebooks
 
 - [A/B testing](notebooks/ab_testing.ipynb)
-
 - [Clustering](notebooks/clustering.ipynb)
-
 - [Harmonic oscillator](notebooks/harmonic_oscillator.ipynb)
-
 - [Kalman filtering](notebooks/kalman_filter.ipynb)
-
 - [Nonlinear filtering](notebooks/nonlinear_filters.ipynb)
-
 - [PCA](notebooks/pca.ipynb)
-
 - [System identification](notebooks/system_identification.ipynb)
-

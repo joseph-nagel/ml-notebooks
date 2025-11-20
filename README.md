@@ -19,4 +19,5 @@ Most of the example notebooks contain a brief theoretical introduction followed 
 - [Kalman filtering](notebooks/kalman_filter.ipynb)
 - [Nonlinear filtering](notebooks/nonlinear_filters.ipynb)
 - [PCA](notebooks/pca.ipynb)
+- [Restricted Boltzmann machine](notebooks/rbm.ipynb)
 - [System identification](notebooks/system_identification.ipynb)
